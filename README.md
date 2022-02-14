@@ -24,8 +24,9 @@ ModRanjan :: github  ➜  ~ » ls sections
 ```
 
 # Achievements
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=ModRanjan&show_icons=true&theme=dark&&count_private=true&include_all_commits=true" alt="ModRanjan" /> </p><br/>
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModRanjan)](https://github.com/ModRanjan/github-readme-stats)]
 
 # Skills
